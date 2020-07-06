@@ -1,3 +1,5 @@
+**This project is no longer being updated. You can find an updated fork [here](https://github.com/qouteall/Devoldefy).**
+
 # Devoldefy
 Translates MCP source code to Yarn
 
